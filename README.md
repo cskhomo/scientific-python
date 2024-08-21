@@ -4,7 +4,7 @@
 
 ## Index
 
-- [Hello, Back-End: Exploring the Curriculum](#hello,-back-end---exploring-the-curriculum)
+- [Hello, Back-End: Exploring the Curriculum](#hello-back-end---exploring-the-curriculum)
 - [For the sake of Arguments: Functions and Variables](for-the-sake-of-arguments---functions-and-variables)
 - [Data Structures and Algorithms](data-structures-and-algorithms)
 - [Class is in Session: Object Oriented Programming](class-is-in-session---object-oriented-programming)
