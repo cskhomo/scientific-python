@@ -1,13 +1,11 @@
 # Scientific Computation and Data Analysis
 
-![freecodecamp logo](0.assets/images/freecodecamp-logo.png "freecodecamp logo")
+![freecodecamp](0.assets/images/freecodecamp-header.png "freecodecamp")
 
 ## Index
 
 - [Hello, Back-End: Exploring the Curriculum](#hello,-back-end---exploring-the-curriculum)
-- [For the sake of Arguments: Functions and Variables](for-the-sake-of-arguments---functions-and-variables)
-- [Data Structures and Algorithms](data-structures-and-algorithms)
-- [Class is in Session: Object Oriented Programming](class-is-in-session---object-oriented-programming)
+
 
 ##  Hello, Back End - Exploring the Curriculum
 
@@ -17,8 +15,12 @@ The Core Curriculum aims to teach full-stack software engineering, which include
 
 I have taken these courses in a continued effort to learn Back-End Development and Data Engineering. 
 
-## For the sake of Arguments - Functions and Variables
+## Python Programming
 
-##  - Data Structures and Algorithms
+## SQL Databases, Bash Scripts
 
-## Class is in Session - Object Oriented Programming
+## Data Analysis
+
+## Certificates
+
+## Conclusion
