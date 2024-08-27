@@ -6,7 +6,6 @@
 
 - [Hello, Back-End: Exploring the Curriculum](#hello,-back-end---exploring-the-curriculum)
 
-
 ##  Hello, Back End - Exploring the Curriculum
 
 The Core Curriculum aims to teach full-stack software engineering, which includes various courses on back-end development using technologies such as Python and SQL to build robust and scalable applications.
