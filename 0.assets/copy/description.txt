@@ -1,1 +1,1 @@
-Scientific Computation and Data Analysis using Python, Bash, SQL for FreeCodeCamp Courses.
+Scientific Computation and Data Analysis using Python, Bash and SQL for FreeCodeCamp Courses.
