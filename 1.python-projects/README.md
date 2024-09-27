@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
 # Scientific Computing with Python
 
